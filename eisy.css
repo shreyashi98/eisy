@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-choose {
+    height: 100vh;
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1593441516376-175bb702465a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FmZSUyMG5pZ2h0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+
+
+.heading {
+    font-family: "Brush Script MT";
+    font-size: 20vw;
+    margin: 10px;
+    color: white;
+}
+
+.button-light {
+    background-color: #f7f7e1;
+    font-family: "Roboto";
+    font-size: 22px;
+    width: 150px;
+    border-radius: 10px;
+    color: #3d160c;
+    border-style: solid;
+    border-width: 2px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.heading:hover {
+    color: #f2d3f2;
+    font-size: 25vw;
+}
+
+.button-dark {
+    background-color: #30112c;
+    font-family: "Roboto";
+    font-size: 22px;
+    width: 150px;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    color: #f7f7e1;
+}

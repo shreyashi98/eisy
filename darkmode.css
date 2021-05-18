@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem2 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem3 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem4 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem5 {
+    font-family: "Roboto";
+    color: white;
+}
+
+.food-munch-logo {
+    height: 70px;
+    width: 80px;
+    margin: 10px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://europetimes.co/wp-content/uploads/2019/02/europe-times-european-world-trendy-daily-world-news-recipes-food-Creamy-and-Spicy-Indian-Chicken-Tikka-Masala1.jpg");
+    height: 85vh;
+
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 300;
+    text-align: right;
+    margin: 10px;
+    margin-right: 15px;
+    margin-top: 110px;
+
+}
+
+.custom-buttom1 {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-width: 0px;
+    border-radius: 8px;
+    margin: 10px;
+    margin-top: 150px;
+
+}
+
+.banner-content {
+    color: white;
+    text-align: right;
+    font-family: "Roboto";
+    font-size: 22px;
+    margin: 10px;
+    margin-right: 15px;
+
+}
+
+.custom-online-button {
+    width: 130px;
+    height: 45px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 2px;
+    border-radius: 8px;
+    border-style: solid;
+    margin: 10px;
+    margin-top: 150px;
+}
+
+.wcu-section {
+    background-color: #302b21;
+}
+
+.wcu-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #d2d5d9;
+}
+
+.wcu-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #d2d5d9;
+}
+
+.wcu-card {
+    background-color: grey;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-title {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #323f4b;
+}
+
+.wcu-image {
+    height: 200px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #313438;
+}
+
+.wcu-card-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #d2d5d9;
+}
+
+.offers {
+    color: #323f4b;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.menu-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #d2d5d9;
+}
+
+.explore-image {
+    border-radius: 10px;
+}
+
+.menu-title {
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #d2d5d9;
+    font-family: "Roboto";
+}
+
+.menu-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.menu-card {
+    border-radius: 16px;
+    background-color: #545a61;
+}
+
+.thanking-image {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-content {
+    color: #d7dce0;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #d7dce0;
+    font-weight: 700;
+}
+
+.thanking-section {
+    background-image: radial-gradient(#4b4f52, #545c61);
+}
+
+.payment-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.delivery-content {
+    color: #c9ced1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.delivery-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #c9ced1;
+    font-weight: 700;
+}
+
+.delivery-image {
+    width: 270px;
+}
+
+.healthy-content {
+    color: #c9ced1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.healthy-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #c9ced1;
+    font-weight: 700;
+}
+
+.healthy-image {
+    width: 270px;
+}
+
+.healthy-food-section {
+    background-color: #36332e;
+}
+
+.custom-buttom {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0px;
+    border-radius: 8px;
+    margin: 10px;
+
+}
+
+.custom-buttom2 {
+    width: 130px;
+    height: 40px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0px;
+    border-radius: 8px;
+    margin: 10px;
+
+
+}
+
+.custom-buttom2:focus {
+    width: 130px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    border-width: 0px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.follow-heading {
+    color: black;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.icon-container {
+    width: 80px;
+    height: 80px;
+    background-color: #ffffe6;
+    padding: 25px;
+    margin: 15px;
+    border-radius: 90px;
+}
+
+.price {
+    color: #e8e4dc;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+}
+
+#navItem1:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+#navItem2:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+#navItem3:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+#navItem4:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+#navItem5:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+.wcu-input {
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 70vw;
+}
+
+.services-section-heading {
+    color: #e8e4dc;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.services-section-description {
+    color: #e8e4dc;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.services-card-image {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+}
+
+.services-card-image:hover {
+    width: 320px;
+    height: 220px;
+}
+
+.services-card-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.services-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.search-box {
+    width: 40vw;
+    border-radius: 20px;
+    background-color: grey;
+}
+
+.search-box:hover {
+    border-style: solid;
+    border-color: grey;
+    border-width: 4px;
+
+
+}
+
+.explore-menu-section {
+    background-color: #302408;
+}
+
+.icon-container:hover {
+    background-color: #f2ebd0;
+}
+
+.menu-card:hover {
+    background-color: #4a4437;
+}
+
+.bg-rec {
+    background-color: #454036;
+
+}
+
+.follow-section {
+    background-color: #332916;
+}
+
+.delivery-section {
+    background-color: #332916;
+}
+
+.services-card-description {
+    color: #ebe3d5;
+
+}
+
+.services-card-title {
+    color: #f5f2ed;
+}
